@@ -1,0 +1,1 @@
+Source code for "Could Model Partitioning Make Federated Learning More Sustainable?"
