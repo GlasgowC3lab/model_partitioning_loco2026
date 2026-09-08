@@ -28,4 +28,14 @@ python src/run_client.py [server_address] [partition_point]
 
 `run_experiment_template.sh` further contains the script template used to run all experiments.
 ## Citation
-To be added
+```
+@misc{frohlich2026modelpartitioningmakefederated,
+      title={Could Model Partitioning Make Federated Learning More Sustainable?}, 
+      author={Tobias Frohlich and Tiffany Vlaar and Lauritz Thamsen},
+      year={2026},
+      eprint={2608.14242},
+      archivePrefix={arXiv},
+      primaryClass={cs.DC},
+      url={https://arxiv.org/abs/2608.14242}, 
+}
+```
